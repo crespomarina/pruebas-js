@@ -1,0 +1,16 @@
+[
+  {
+    "nombre": "yoga",
+    "precio": "1500"
+  },
+
+  {
+    "nombre": "pintura",
+    "precio": "1300"
+  },
+
+  {
+    "nombre": "carpinteria",
+    "precio": "2000"
+  }
+]
